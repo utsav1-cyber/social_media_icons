@@ -1,0 +1,18 @@
+{
+    "name": "custom/social-media-icons",
+    "type": "shopware-plugin",
+    "description": "Social Media Icons which shown on the footer.",
+    "version": "1.0.0",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "BAY20 SOFTWARE CONSULTANCY SERVICES PVT. LTD."
+        }
+    ],
+    "extra": {
+        "label": {
+            "de-DE": "Social Media Icons",
+            "en-GB": "Symbole für soziale Medien"
+        }
+    }
+}
